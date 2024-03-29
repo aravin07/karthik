@@ -1,1 +1,6 @@
+git init 
+git nano file name 
+git status
+git add.
+git commint -am
 
